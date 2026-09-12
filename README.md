@@ -4,26 +4,17 @@ Welcome to the complete tutorial for using Python!
 
 ## Course Syllabus
 
-* **Module 0: Basics of Python Programming**
-  (Introduction, Executing Python Programs)
-* **Module 1: Data Types**
-  (Data Types, Assignments, Formatting Numbers and Strings)
-* **Module 2: Operators and Expressions**
-* **Module 3: Decision Making Statements**
-  (Boolean Types, Relational Operators, Conditional Expressions)
-* **Module 4: Loop Control Statements**
-* **Module 5: Functions**
-* **Module 6: Lists**
-* **Module 7: Strings**
-* **Module 8: Searching and Sorting**
-* **Module 9: Classes and Objects** 
-  (Object-Oriented Programming Basics)
-* **Module 10: Tuples, Sets, and Dictionaries**
-* **Module 11: Graphics Creation using Turtle**
-* **Module 12: File Handling**
-* **Module 13: Exception Handling**
-* **Module 14: GUI Programming using Tkinter**
-* **Module 15: Database Management with MySQL**
+*Module 0: Basics & Data I/O** (Colab Environment, Input/Output, Reading/Writing Files, Intro to Pandas)
+- [x] **Module 1: Operators & Control Flow** (Math/Relational Operators, If/Else Statements, For/While Loops)
+- [ ] **Module 2: Core Data Structures** (Lists, Tuples, Sets, and Dictionaries)
+- [ ] **Module 3: String Manipulation & Formatting** (Slicing, Regex basics, F-strings for log formatting)
+- [ ] **Module 4: Functions & Scope** (Defining functions, Lambda functions, variable scope)
+- [ ] **Module 5: Object-Oriented Programming** (Classes, Objects, Inheritance)
+- [ ] **Module 6: Exception Handling** (Try/Except blocks, handling missing data errors)
+- [ ] **Module 7: Searching and Sorting** (Algorithmic complexity, basic sorting algorithms)
+- [ ] **Module 8: Numerical Computing with NumPy** (Vectors, Matrices, and high-speed math operations)
+- [ ] **Module 9: Advanced Data Management with Pandas** (DataFrames, cleaning missing data, filtering datasets)
+- [ ] **Module 10: Data Visualization** (Plotting graphs, loss curves, and stock charts using Matplotlib & Seaborn)
 
 ## How to use this repository
 Navigate to each Module folder to find the corresponding notebooks, code files, and practice materials.
